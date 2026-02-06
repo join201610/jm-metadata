@@ -2,13 +2,13 @@
   "name": "JUNMA",
   "symbol": "JM",
   "description": "JM is an experimental community-driven token created by Jun Ma.",
-  "image": "REPLACE_WITH_IMAGE_URL",
+  "image": "https://join201610.github.io/jm-metadata/jm.png",
   "external_url": "https://mesavelab.com",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "REPLACE_WITH_IMAGE_URL",
+        "uri": "https://join201610.github.io/jm-metadata/jm.png",
         "type": "image/png"
       }
     ]
